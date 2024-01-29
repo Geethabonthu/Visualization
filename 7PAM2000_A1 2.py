@@ -64,7 +64,7 @@ def scatterplot():
     ax.set_ylabel(indicators[1])
 
     # Add legend
-    ax.legend(title = 'Country' , bbox_to_anchor = (1 , 1))
+    #ax.legend(title = 'Country' , bbox_to_anchor = (1 , 1))
 
     # Show the plot
     plt.show()
